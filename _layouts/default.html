@@ -28,8 +28,6 @@
     <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
     <div class="shell">
       
-{% include nav.html %}
-      
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
@@ -60,7 +58,7 @@
 
       <section id="main_content">
         {{ content }}
-        
+        {% include nav.html %}
         {% include likebutton.html %}
         
       </section>
