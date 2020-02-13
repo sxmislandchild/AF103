@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## AF103 Web Building
 
-You can use the [editor on GitHub](https://github.com/sxmislandchild/AF103/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here we will use github to build a site that meets the learning outcomes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here's a link to cute cats
+[Link](https://www.pinterest.co.uk/romipins/cute-cats/)
 
-### Markdown
+### Random Title
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
