@@ -3,11 +3,12 @@
 Here we will use github to build a site that meets the learning outcomes
 
 Here's a link to cute cats
-[Link](https://www.pinterest.co.uk/romipins/cute-cats/)
+[Pinterest Cats](https://www.pinterest.co.uk/romipins/cute-cats/)
 
 ### Random Title
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If those cute cats were not enough, here is another
+![Kittens by Pixabay](https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
 
 ```markdown
 Syntax highlighted code block
