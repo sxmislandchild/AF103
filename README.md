@@ -8,6 +8,7 @@ Here's a link to cute cats
 ### Random Title
 
 If those cute cats were not enough, here is another
+
 ![Kittens by Pixabay](https://images.pexels.com/photos/45170/kittens-cat-cat-puppy-rush-45170.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
 
 ```markdown
