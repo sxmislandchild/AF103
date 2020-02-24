@@ -6,7 +6,7 @@ Be Brave Reach Out
 
 
 [Find your mental health services by your postcode](https://www.nhs.uk/service-search/other-services/Mental%20health%20support/LocationSearch/330)
-!.[ ](file:///C:/Users/Student/Downloads/NHS-Logos-for-A4/NHS%20Logos%20for%20A4/Office%20Use/NHS%2010mm%20-%20RGB%20Blue.jpg)
+![ ](file:///C:/Users/Student/Downloads/NHS-Logos-for-A4/NHS%20Logos%20for%20A4/Office%20Use/NHS%2010mm%20-%20RGB%20Blue.jpg)
 
 ### Random Title
 
